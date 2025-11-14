@@ -1,0 +1,24 @@
+# Configuration file with actual ban rules (keep your rules private)
+config.php
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Composer
+vendor/
+composer.lock
+
+# MaxMind GeoIP databases
+*.mmdb
+*.dat
+
+# Logs
+*.log
